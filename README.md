@@ -9,7 +9,7 @@ ZoneSpy is a powerful DNS enumeration tool that helps security professionals and
 
 · DNS record enumeration (A, AAAA, MX, TXT, NS, CNAME, SOA)
 · Zone transfer (AXFR) testing
-. whois
+. Whois
 
 ## Usage
 zonespy -d example.com
