@@ -1,0 +1,10 @@
+import dns.resolver
+import time
+from rich.console import Console
+from rich.table import Table
+import dns.exception
+import dns.query
+import dns.zone
+import argparse
+import pyfiglet
+from colorama import Fore, Style
