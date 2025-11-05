@@ -7,8 +7,10 @@ ZoneSpy is a powerful DNS enumeration tool that helps security professionals and
 
 # Features
 
-· DNS record enumeration (A, AAAA, MX, TXT, NS, CNAME, SOA)
-· Zone transfer (AXFR) testing
+· DNS record enumeration (A, AAAA, MX, TXT, NS, CNAME, SOA)                   
+                              
+· Zone transfer (AXFR) testing                            
+
 . Whois
 
 ## Usage
