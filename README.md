@@ -12,6 +12,8 @@ ZoneSpy is a powerful DNS enumeration tool that helps security professionals and
 . Whois
 
 ## Usage
-zonespy -d example.com
-zonespy -d zonetransfer.me --axfr -s nsztm1.digi.ninja
+zonespy -d example.com                                        
+
+zonespy -d zonetransfer.me --axfr -s nsztm1.digi.ninja                        
+ 
 zonespy -d example.com --whois
